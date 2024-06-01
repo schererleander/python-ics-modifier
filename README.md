@@ -1,1 +1,2 @@
-# python-ics-modifier
+# Python ICS Modifier
+My city provides a digital waste calendar. However, I encountered a problem - the calendar didn’t notify me the day before to take out the trash. Consequently, I missed taking out the trash because the events were scheduled on the same morning the trash was picked up. To solve this issue, I wrote a small script that adds a notification to every event in the calendar, specifically at 17:00 the day before the event.
